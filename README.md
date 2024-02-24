@@ -12,7 +12,7 @@
     - SQLite
         - entities: 
             - users
-            - estableshments
+            - establishments
             - category
 
 - Frontend: HTML, CSS and JavaScript
@@ -26,7 +26,7 @@
 - Favorite establishemtns 
 - Rate establishments 
 
-##### Estableshments
+##### Establishments
 - Sign Up
 - Description
 - Advertising
