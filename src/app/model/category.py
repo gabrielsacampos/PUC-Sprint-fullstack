@@ -1,6 +1,6 @@
 from sqlalchemy import Column, String, Integer, DateTime, ForeignKey
 from typing import Union
-from base import Base
+from .base import Base
 
 class Category(Base):
     __tablename__='category'

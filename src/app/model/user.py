@@ -1,4 +1,4 @@
-from base import Base
+from .base import Base
 from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
 from typing import Union
 import datetime as datetime

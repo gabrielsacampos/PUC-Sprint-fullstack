@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
 
 import os 
-from model import Base, Category, Establishment, User
+from . import Base, Category, Establishment, User
 
 
 
